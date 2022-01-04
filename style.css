@@ -10,7 +10,7 @@ h1{
 }
 .flaxible-container{
     display: flex;
-    margin-bottom: 120px;
+    margin-bottom: 180px;
 }
 .half-width{
     width: 50%;
@@ -40,6 +40,7 @@ h1{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
+    margin-top: 300px;
 }
 .box-shadow{
     width: 40%;
@@ -61,3 +62,8 @@ h1{
 footer p{
     text-align: center;
 }
+.padding{
+    padding-right: 150px;
+}
+.space{
+    margin-bottom: 150px;
